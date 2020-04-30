@@ -30,4 +30,4 @@ create a project and get the info such as
  and finaly run <pre>npm install</pre> and run the project.
 <br> 
  After insalling all npm packages run  <pre>npm start</pre>  and open another command promt in the same directory and run <pre>react-native run-android</pre>  it will start the emulator or if you find any problem launched the emulator manually. and then run the <b>react-native run-android</b> command. <br>
- if youhave any issue dont forget to mail me @ ashif.sadique9@gmail.com. hank you enjoy.
+ if youhave any issue dont forget to mail me @ ashif.sadique9@gmail.com. Thank you enjoy.
